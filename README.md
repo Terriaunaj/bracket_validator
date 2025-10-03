@@ -1,4 +1,4 @@
-# Bracket Validator (Python)
+# Bracket Validator
 
 ### Description
 This project validates whether a string of brackets ((), {}, []) is correctly balanced. It uses a **stack data structure** and demonstrates both procedural and object-oriented programming approaches.
