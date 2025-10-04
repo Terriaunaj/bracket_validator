@@ -31,3 +31,10 @@ This project validates whether a string of brackets ((), {}, []) is correctly ba
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/bracket-validator-python.git
+2. Navigate to the folder:
+   ```bash
+   cd bracket-validator-python
+3. Run the desired version:
+   ```bash
+   python3 logic_version.py
+   python3 oop_version.py
